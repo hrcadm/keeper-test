@@ -1,0 +1,20 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+  background-color: #f9f9f8;
+  font-family: 'Open Sans', sans-serif;
+}
+.role-background{
+  background-color: white;
+  margin-top: 20px;
+  padding: 20px 50px;
+}
+.input-group{
+  margin: 60px 0 80px 0;
+}
